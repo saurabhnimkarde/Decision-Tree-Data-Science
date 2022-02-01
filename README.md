@@ -1,0 +1,2 @@
+# Decision-Tree-Data-Science
+Undergrad : person is under graduated or not Marital.Status : marital status of a person Taxable.Income : Taxable income is the amount of how much tax an individual owes to the government  Work Experience : Work experience of an individual person Urban : Whether that person belongs to urban area or not
